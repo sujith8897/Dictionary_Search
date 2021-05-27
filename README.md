@@ -7,3 +7,6 @@
 
 #### Download the file and go to that folder
 `C:\Users\YourName> python dictionary_search.py`
+
+<img width="660" alt="Screenshot (14)" src="https://user-images.githubusercontent.com/46921838/119776975-3cb0b780-bee3-11eb-9efc-889fd3d8f005.png">
+
